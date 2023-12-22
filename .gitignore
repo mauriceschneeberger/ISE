@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.mp4
+
+
+# ByteTrack specific
+logs/
+data/
+
+# Virtual environment
+venv/
