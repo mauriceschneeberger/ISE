@@ -5,12 +5,13 @@ __pycache__/
 *.pyd
 *.mp4
 
-#Folder
-
-
 # ByteTrack specific
 logs/
 data/
 
 # Virtual environment
 venvv/
+ISE_venv/
+graveyard/
+output/
+
